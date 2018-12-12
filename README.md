@@ -3,7 +3,8 @@ The code used in the paper "Improvements to Consumption Prediction: Machine Lear
 
 The R script VAR_modeling_v2_20181210.R carries out the vector autoregression modeling, and the Python script ml_models_final_v2.py does the random forest modeling.
 
-# System
+---
+## System
 Code included in this repo was successfully run on the following system.  
 Darwin Kernel Version 17.7.0: Thu Jun 21 22:53:14 PDT 2018; root:xnu-4570.71.2~1/RELEASE_X86_64  
 macOS High Sierra Version 10.13.6 (17G65)  
@@ -12,14 +13,16 @@ Processor 2.7 GHz Intel Core i5
 Memory 8 GB 1867 MHz DDR3  
 Graphics Intel Iris Graphics 6100 1536 MB  
 
-# Python Environment
+---
+## Python Environment
 Python: 3.6.5  
 packaged by conda-forge  
 (default, Apr  6 2018, 13:44:09)  
 [GCC 4.2.1 Compatible Apple LLVM 6.1.0 (clang-602.0.53)]  
 Full Python environment details in the file "pce.yml" (which describes an anaconda environment)
 
-# R Environment
+---
+## R Environment
 platform       x86_64-apple-darwin15.6.0   
 arch           x86_64                      
 os             darwin15.6.0                
