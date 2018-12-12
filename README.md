@@ -13,8 +13,11 @@ Memory 8 GB 1867 MHz DDR3
 Graphics Intel Iris Graphics 6100 1536 MB  
 
 # Python Environment
-Python: 3.6.5 | packaged by conda-forge | (default, Apr  6 2018, 13:44:09) 
-[GCC 4.2.1 Compatible Apple LLVM 6.1.0 (clang-602.0.53)]
+Python: 3.6.5  
+packaged by conda-forge  
+(default, Apr  6 2018, 13:44:09)  
+[GCC 4.2.1 Compatible Apple LLVM 6.1.0 (clang-602.0.53)]  
+Full Python environment details in the file "pce.yml" (which describes an anaconda environment)
 
 # R Environment
 platform       x86_64-apple-darwin15.6.0   
