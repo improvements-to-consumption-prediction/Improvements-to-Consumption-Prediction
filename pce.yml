@@ -1,4 +1,4 @@
-name: capstone
+name: pce
 channels:
   - districtdatalabs
   - anaconda
